@@ -1,0 +1,90 @@
+@charset "utf-8";
+#header {
+    background-color: #353535;
+    height: 90px;
+    width: auto;
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+    color: #FFFFFF;
+}
+#main {
+    height: 80px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: "微軟正黑體";
+    color: #2E76DB;
+    font-size: 24px;
+    width: 1200px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+#footer {
+    background-color: #353535;
+    height: 70px;
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: "微軟正黑體";
+    color: #FFFFFF;
+}
+#logo {
+    float: left;
+    margin-top: 20px;
+}
+#menu {
+    float: right;
+    margin-top: 30px;
+}
+
+#title {
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+}
+#menu li {
+    float: left;
+    list-style-type: none;
+    font-family: "微軟正黑體";
+    font-size: 18px;
+    color: #FFFFFF;
+    text-decoration: none;
+    width: 120px;
+    text-align: center;
+    border-top-left-radius: 0px;
+}
+#menu a {
+    font-family: "微軟正黑體";
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#menu a:hover  {
+    font-family: "微軟正黑體";
+    border: 2px solid #FFFFFF;
+    position: relative;
+    color: #FFFFFF;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+#footer_frame {
+    width: 1200px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 70px;
+    text-align: center;
+    padding-top: 25px;
+    font-family: "微軟正黑體";
+}
+.mune_a_now {
+    border: 2px solid #FFFFFF;
+    font-family: "微軟正黑體";
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.textV   {
+    vertical-align: middle;
+}
